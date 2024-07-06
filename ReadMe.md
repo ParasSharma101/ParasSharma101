@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Paras 👋<br>About Me<br>I'm currently working on a project involving medical image analysis, specifically focusing on chest cancer CT-Scans.<br><br>Collaboration<br>I'm looking to collaborate on projects related to MERN stack development and medical imaging.<br><br>Seeking Help<br>I'm looking for help with advanced image processing techniques and integrating machine learning models with web applications.<br><br>Currently Learning<br>I'm currently diving deep into the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>Ask Me About<br>Medical image analysis<br>MERN stack development<br>Machine learning in healthcare
+Hello, I'm Paras 👋<br><b> About Me</b><br>I'm currently working on a project involving medical image analysis, specifically focusing on chest cancer CT-Scans.<br><br><b>Collaboration</b><br>I'm looking to collaborate on projects related to MERN stack development and medical imaging.<br><br><b>Seeking Help</b><br>I'm looking for help with advanced image processing techniques and integrating machine learning models with web applications.<br><br><b>Currently Learning</b><br>I'm currently diving deep into the MERN stack (MongoDB, Express.js, React, Node.js).<br><br><b>Ask Me About</b><br>Medical image analysis<br>MERN stack development<br>Machine learning in healthcare
 
 
 ## 🌐 Socials:
