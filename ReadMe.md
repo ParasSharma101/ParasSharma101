@@ -5,7 +5,7 @@
 🔍 Tech Enthusiast: Passionate about combining software development with innovative AI solutions.
 
 
-💻 Full-Stack & AI Developer: Focused on web development using the MERN stack and exploring the power of machine learning in impactful applications.
+💻 Full-Stack & AI Developer: Focused on web development using the Java Full stack and exploring the power of machine learning in impactful applications.
 
 
 🤝 Collaboration: Always open to collaborating on projects in full-stack development and AI domains.
